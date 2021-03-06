@@ -4,8 +4,8 @@ const ContactPage = () => {
   return (
     <div>
       <h1>Contact</h1>
-      <p>Email: luckasti.larry@gmail.com</p>
-      <p>Github: @shewhoridesapony</p>
+      <p>Email: <a href="mailto:luckasti.larry@gmail.com">luckasti.larry@gmail.com</a></p>
+      <p>Github: <a href="https://github.com/shewhoridesapony" target="_blank">@shewhoridesapony</a></p>
     </div>
   )
 }
