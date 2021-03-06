@@ -1,0 +1,13 @@
+import React from 'react'
+
+const ContactPage = () => {
+  return (
+    <div>
+      <h1>Contact</h1>
+      <p>Email: luckasti.larry@gmail.com</p>
+      <p>Github: @shewhoridesapony</p>
+    </div>
+  )
+}
+
+export default ContactPage
