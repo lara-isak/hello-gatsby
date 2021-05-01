@@ -6,11 +6,8 @@ const AboutPage = () => {
   return (
     <div>
       <Layout>
-        <h1>About</h1>
-        <p>Hi everyone! Nice to see you on my page.</p>
-        <p>I'm currently participanting in the TechLabs Bootcamp, Web Dev track.</p>
-        <p>I'm learning about Gatsby at the moment and couldn't be more excited to build some 
-        cool shit with it.</p>
+        <h2>About Me</h2>
+        <p>I'm learning Gatsby + Contentful at the moment to build this portfolio + blog site and couldn't be more excited about the process.</p>
         <p>If you would like to send me an email or check my Github greens, 
         you can do that <Link to="/contact">here</Link></p>
       </Layout>
