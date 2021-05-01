@@ -5,7 +5,7 @@ const BlogPage = () => {
   return(
     <div>
       <Layout>
-        <h1>Blog</h1>
+        <h2>Blog</h2>
         <p>Posts will be displayed here... Stay tuned!</p>
       </Layout>
     </div>
