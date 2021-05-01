@@ -5,9 +5,10 @@ const ContactPage = () => {
   return (
     <div>
       <Layout>
-        <h1>Contact</h1>
-        <p>Email: <a href="mailto:luckasti.larry@gmail.com">luckasti.larry@gmail.com</a></p>
-        <p>Github: <a href="https://github.com/shewhoridesapony" target="_blank" rel="noreferrer">@shewhoridesapony</a></p>
+        <h2>Contact Me</h2>
+        <p>Email <a href="mailto:luckasti.larry@gmail.com">luckasti.larry@gmail.com</a></p>
+        <p>Github: <a href="https://github.com/lara-isak" target="_blank" rel="noreferrer">@lara-isak</a></p>
+        <p>Twitter: <a href="https://twitter.com/lara_isak" target="_blank" rel="noreferrer">@lara_isak</a></p>
       </Layout>
     </div>
   )
