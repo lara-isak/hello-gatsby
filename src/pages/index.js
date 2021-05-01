@@ -5,9 +5,10 @@ import Layout from '../components/layout'
 const IndexPage = () => {
   return(
       <Layout>
-      <h1>Hello!</h1>
-      <h2>I'm Lara, a future full-stack dev living in Berlin.</h2>
-      <p>Need a developer? <Link to="/contact">Contact me.</Link></p>
+      <h2>Hi there! 👋</h2> 
+      <h2>I'm Lara, a (prefix to be defined) web developer in making, living in Berlin.</h2>
+      <p>Thank you for taking your time to join me on my journey.</p>
+      <p>It will be a bumpy ride so better fasten your seatbelts! 🚀</p>
       </Layout>
   )
 }
